@@ -1,0 +1,17 @@
+body{
+   width: 70%;
+   text-align: justify;
+   position: absolute;
+   margin: 15%;
+}
+figure{
+   float: right;
+   padding-left: 5px;
+   padding-bottom: 5px;
+}
+figcaption{
+   font-style: italic;
+}
+table{
+   width: 300;
+}
